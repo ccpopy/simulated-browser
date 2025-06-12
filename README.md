@@ -2,6 +2,10 @@
 
 一个基于 PyQt5 和 QWebEngine 的自定义简易浏览器，主要用于移动端页面开发测试，支持 User-Agent 切换、多标签页浏览和 Chrome 风格的开发者工具。
 
+<p align="center">
+![主界面](screenshot/screenshot.png)
+</p>
+
 ## 功能特性
 
 - **多标签页浏览**: 支持新建、关闭多个标签页
